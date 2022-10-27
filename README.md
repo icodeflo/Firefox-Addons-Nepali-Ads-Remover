@@ -1,7 +1,9 @@
 # Nepali Ads Remover (Firefox Edition)
-Firefox Add-on to remove annoying ads from nepali news websites.
 
 ![Logo](icons/icon128.png)
+
+Firefox Add-on to remove annoying ads from nepali news websites.
+
 #### Description:
 
 Using this extension will remove annoying ads from popular Nepali news websites. You can now read news without seeing any of those eye damaging popups and ads on your screen. 
