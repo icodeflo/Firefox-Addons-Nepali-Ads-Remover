@@ -1,9 +1,6 @@
 /**
  * Place your custom CSS styles here.
  **/
-/* .static-sponsor, .layout_sponser_content, .static-ad {
-    display: none;
-} */
 .static-sponsor,
 .daraz-sponser,
 .ekans-wrapper,
@@ -95,7 +92,10 @@
 .gam-each-npad,
 .nk-sidebar-ads,
 .topStickMobileAd,
-.exampleModalCenter
+.exampleModalCenter,
+.sponsor-mobile,
+.sticky-ad,
+.top-smart-banner
 {
     display: none !important;
     width: 0 !important;
