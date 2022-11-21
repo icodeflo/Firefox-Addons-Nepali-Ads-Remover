@@ -18,6 +18,10 @@ function fireContentLoadedEvent () {
     // Alt value of ad is displayed none
     let imgSelect = document.querySelectorAll('[alt="ad"]');
     adRemover(imgSelect);
+    let imgSelectKhalti = document.querySelectorAll('[alt="Khalti"]');
+    adRemover(imgSelectKhalti);
+    let imgSelectGlobalIME = document.querySelectorAll('[alt="Global IME"]');
+    adRemover(imgSelectGlobalIME);
     // gif ads
     let gifAds = document.querySelectorAll('img[src*=".gif"]');
     adRemover(gifAds);

@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Nepali AD Remover",
   "description": "Removes annoying ads from nepali news websites.",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "icons": {
     "16": "icons/icon16.png",
     "19": "icons/icon19.png",
@@ -86,13 +86,18 @@
         "https://myrepublica.nagariknetwork.com/*",
         "https://www.myrepublica.nagariknetwork.com/*",
         "https://techpana.com/*",
-        "https://www.techpana.com/*"
+        "https://www.techpana.com/*",
+        "https://election.ekantipur.com/*",
+        "https://www.election.ekantipur.com/*",
+        "https://election.onlinekhabar.com/*",
+        "https://www.election.onlinekhabar.com/*"
       ],
       "css": [
         "src/inject/inject.css"
       ],
       "js": [
-        "src/inject/inject.js"
+        "src/inject/inject.js",
+        "src/inject/gif_ad_remover.js"
       ]
     },
     {

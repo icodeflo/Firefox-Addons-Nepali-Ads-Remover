@@ -95,14 +95,18 @@
 .exampleModalCenter,
 .sponsor-mobile,
 .sticky-ad,
-.top-smart-banner
+.top-smart-banner,
+.box-sponsored,
+.ok-box-ad-wrap,
+/* post election */
+.ok-el-head-adv-square
 {
     display: none !important;
     width: 0 !important;
     height: 0 !important;
     visibility: hidden !important;
 }
-#roadblock-ad, #block-ad, #exampleModalCenter
+#roadblock-ad, #block-ad, #exampleModalCenter, #ok-box-ad-wrap
 {
     display: none !important;
     width: 0 !important;
